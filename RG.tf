@@ -1,8 +1,8 @@
 provider "azurerm" {
-subscription_id = var.SUBSCRIPTION_ID
-cliect_ID       = var.CLIENT_ID
-client_secret   = var.CLIENT_SECRET
-tennant_ID      = var.TENANT_ID
+subscription_id = var.subscription_id
+cliect_ID       = var.cliect_ID
+client_secret   = var.client_secret
+tennant_ID      = var.tennant_ID
   features {}  # Required for the azurerm provider
 }
 
