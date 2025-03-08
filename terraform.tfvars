@@ -1,2 +1,2 @@
-rg_name  = "myrg1"
+rg_name  = "myrg2"
 rg_location = "eastus"
